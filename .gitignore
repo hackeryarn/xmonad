@@ -1,0 +1,9 @@
+.stack-work/
+xmobar-git/
+xmonad-contrib-git/
+xmonad-extras-git/
+xmonad-git/
+xmonad-x86_64-linux
+*.errors
+*.hi
+*.o
